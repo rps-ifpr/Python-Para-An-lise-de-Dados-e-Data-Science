@@ -1,0 +1,16 @@
+Fundamentos de Linguagem Python para Análise de Dados e Data ScienceBibliografia, Referências e Links Úteis
+
+O Que o ChatGPT Realmente Significa Para as Empresas?
+[https://blog.dsacademy.com.br/o-que-o-chatgpt-realmente-significa-para-as_empresas/
+
+ChatGPT: Tudo Que Você Realmente Precisa Saber, Uso e Limitações
+https://www.cienciaedados.com/chatgpt-tudo-que-voce-realmente-precisa-saber-uso-e-limitacoes/
+
+5 Alternativas ao ChatGPT
+https://www.cienciaedados.com/5-alternativas-ao-chatgpt/
+
+A Anedota do Abacaxi
+https://blog.dsacademy.com.br/a-anedota-do-abacaxi/
+
+OpenAI
+https://openai.com/
